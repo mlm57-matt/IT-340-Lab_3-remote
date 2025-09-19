@@ -1,0 +1,31 @@
+commit ee15d8c86fc3ea97e99a5f3b9b64f3b10937afd0
+Author: Matthews <mlm57@njit.edu>
+Date:   Fri Sep 19 15:45:44 2025 -0400
+
+    Revert "new file called temp.txt used for testing"
+    
+    This reverts commit 3200cc68ebb96564332e6fd767f62351de01ee17.
+
+commit 3200cc68ebb96564332e6fd767f62351de01ee17
+Author: Matthews <mlm57@njit.edu>
+Date:   Fri Sep 19 15:41:36 2025 -0400
+
+    new file called temp.txt used for testing
+
+commit 33afc7444f2e195ba0e85a5b3f3d5cb2f3f4bb0b
+Author: Matthews <mlm57@njit.edu>
+Date:   Fri Sep 19 15:39:29 2025 -0400
+
+    Added an extra comment to hostname
+
+commit fc850dc55129961dcad3a9ea9cae31bab38aef2d
+Author: Matthews <mlm57@njit.edu>
+Date:   Thu Sep 18 12:43:15 2025 -0400
+
+    added a message into os-release
+
+commit a8f5db0f8fac4400be6aba644740e644e8ae881d
+Author: Matthews <mlm57@njit.edu>
+Date:   Thu Sep 18 12:35:03 2025 -0400
+
+    IT340 Lab 3
